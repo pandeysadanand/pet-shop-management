@@ -1,0 +1,5 @@
+*.claass
+.classpath
+.settings
+.project
+/bin/
